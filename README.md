@@ -9,18 +9,20 @@
   <!-- <img src="https://gotechmantra.com/wp-content/uploads/2021/04/InteligenciaArtificialeneducacion.jpg" /> -->
 </div>
 
+ <p align="left">    
+  <img
+    src="https://komarev.com/ghpvc/?username=malaknasser812&label=Profile%20views&color=0e75b6&style=flat"
+    alt="malaknasser812"
+  />
+</p>
+
 - 🌱 I’m currently learning **AI, Mashine learning**
 
 - 📫 How to reach me **malak.mohamed021@eng-st.cu.edu.eg**
 - 📄 Know more about my skills:
   [Resume Link](https://drive.google.com/file/d/1OHCTvn8bQxLbRNhgQtNgxTlwhpWcay5b/view?usp=drive_link)
 
-  <p align="left">    
-  <img
-    src="https://komarev.com/ghpvc/?username=malaknasser812&label=Profile%20views&color=0e75b6&style=flat"
-    alt="malaknasser812"
-  />
-</p>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
