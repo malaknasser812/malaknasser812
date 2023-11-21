@@ -20,7 +20,7 @@
   />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/malak-nasser-752ab0214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:malak.mohamed021@eng-st.cu.edu.eg" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
