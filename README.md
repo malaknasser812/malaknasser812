@@ -10,8 +10,6 @@
 </div>
 
 - 🌱 I’m currently learning **AI, Mashine learning**
-- 📄 Know more about my skills:
-  [Resume Link](https://drive.google.com/file/d/1OHCTvn8bQxLbRNhgQtNgxTlwhpWcay5b/view?usp=drive_link)
 
   <p align="left">    
   <img
