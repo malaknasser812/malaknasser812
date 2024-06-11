@@ -9,7 +9,7 @@
   <!-- <img src="https://gotechmantra.com/wp-content/uploads/2021/04/InteligenciaArtificialeneducacion.jpg" /> -->
 </div>
 
-- 🌱 I’m currently learning **AI, Mashine learning**
+- 🌱 I’m currently learning **AI, DL**
 
   <p align="left">    
   <img
