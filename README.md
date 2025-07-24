@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Malak Nasser</h1>
 <h3 align="center">
-  Systems and Biomedical Engineer Graduate || Cairo University  🧬
+  AI engineer || Cairo University  🧬
 </h3>
 
 <div align="center">
@@ -9,7 +9,6 @@
   <!-- <img src="https://gotechmantra.com/wp-content/uploads/2021/04/InteligenciaArtificialeneducacion.jpg" /> -->
 </div>
 
-- 🌱 I’m currently learning **AI, DL**
 
   <p align="left">    
   <img
