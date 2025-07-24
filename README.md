@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Malak Nasser</h1>
 <h3 align="center">
-  Undergraduate Systems and Biomedical Engineer || Cairo University  🧬
+  Systems and Biomedical Engineer Graduate || Cairo University  🧬
 </h3>
 
 <div align="center">
